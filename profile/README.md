@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏾
 
 > [!Important]
 > If you’re a complete beginner, I wouldn’t recommend using these tools yet. There’s nothing overly complex here, but you might feel lost and frustrated with all the tools and concepts involved.
@@ -9,11 +9,11 @@ This organization is a collection of tools designed to improve the experience of
 
 - [falco-cli](https://github.com/falcopackages/falco-cli): Start a project using the falco starter-template and keep it updated
 - [starter-template](https://github.com/falcopackages/starter-template): Project starter including uv, Docker production setup, helpers for project version management, CI/CD pipelines, all your dev commands managed via a justfile, and more
-- [falco (wip)](https://github.com/falcopackages/falco): A Django application that comes with commands for `CRUD` generation, a `start-app` command that auto-registers new apps, HTMX download commands, and more
+- [falco (wip)](https://github.com/falcopackages/falco): A Django application that comes with commands for `CRUD` generation, a `start-app` command that auto-registers new apps, HTMX download, and more
 - [falco-ui (wip)](https://github.com/falcopackages/falco-ui): Integrates [daisyui](https://daisyui.com/) for better looking HTML for CRUD, forms, and allauth templates
-- [fujin (wip)](https://github.com/falcopackages/fujin): Automates the deployment of your Django project (and any project follow a few prerequisites) on a Linux box while leaving you in full control of your server
+- [fujin (wip)](https://github.com/falcopackages/fujin): Automates the deployment of your Django project (and any project following a few prerequisites) on a Linux box while leaving you in full control of your server
 
-The missing piece for me right now to consider my Django workflow perfect is a tool to better organize frontend code for larger projects, but I have few good candidates:
+The missing piece for me right now to consider my Django workflow perfect is a tool to better organize frontend code for larger projects, but I have a few good candidates:
 
 - [django-cotton](github.com/wrabit/django-cotton): A component library for Django that enables you to use HTML-like tag syntax
 - [django-bird (wip)](https://github.com/joshuadavidthomas/django-bird): Another component library in very early stages, but I really like the proposed API
@@ -30,4 +30,5 @@ Here's a list of extra packages I use from time to time that don't come included
 - [coltrane](https://github.com/adamghill/coltrane)
 
 Have any questions or suggestions? Open a new [discussion](https://github.com/orgs/falcopackages/discussions).
+
 Need help with your Django project? Feel free to reach out to [me](https://github.com/Tobi-De) at [tobidegnon@proton.me](mailto:tobidegnon@proton.me).
