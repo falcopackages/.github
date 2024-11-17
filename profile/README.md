@@ -29,6 +29,6 @@ Here's a list of extra packages I use from time to time that don't come included
 - [django-pgclone](https://github.com/Opus10/django-pgclone)
 - [coltrane](https://github.com/adamghill/coltrane)
 
-Have any questions or suggestions? Open a new [discussion](https://github.com/orgs/falcopackages/discussions).
-
-Need help with your Django project? Feel free to reach out to [me](https://github.com/Tobi-De) at [tobidegnon@proton.me](mailto:tobidegnon@proton.me).
+Have any questions or suggestions? Open a new [discussion](https://github.com/orgs/falcopackages/discussions).<br>
+Need help with your Django project? Feel free to reach out to [me](https://github.com/Tobi-De) at [tobidegnon@proton.me](mailto:tobidegnon@proton.me).<br>
+If you find these tools helpful, consider [buying me a coffee](https://buymeacoffee.com/oluwa.tobi) to support my work! ☕
