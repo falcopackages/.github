@@ -31,6 +31,7 @@ Here's a list of extra packages I use from time to time that don't come included
 - [django-pgtrigger](https://github.com/Opus10/django-pgtrigger)
 - [django-eventstream](https://github.com/fanout/django-eventstream)
 - [django-pgclone](https://github.com/Opus10/django-pgclone)
+- [django-perf-rec](https://github.com/adamchainz/django-perf-rec)
 - [coltrane](https://github.com/adamghill/coltrane)
 
 Have any questions or suggestions? Open a new [discussion](https://github.com/orgs/falcopackages/discussions).<br>
