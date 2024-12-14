@@ -14,8 +14,7 @@ This organization is a collection of tools designed to improve the experience of
 - [fujin (wip)](https://github.com/falcopackages/fujin): Automates the deployment of your Django project (and any project following a few prerequisites) on a Linux box while leaving you in full control of your server
 
 > [!Note]  
-> You can generate a ready-to-use Django project with falco by visiting this link: [Falco Template Repository](https://github.com/falcopackages/falco-template-repository/generate).  
-> The initial project you get is not the completed version. Wait about a minute and then reload the page to see the final result.
+> You can generate a ready-to-use Django project with falco directly on github by visiting this repo: [Falco Template Repository](https://github.com/falcopackages/falco-template-repository).  
 
 The missing piece for me right now to consider my Django workflow perfect is a tool to better organize frontend code for larger projects, but I have a few good candidates:
 
